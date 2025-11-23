@@ -1,5 +1,21 @@
-# RCETI
-Robotic Control of Endotracheal Tube Insertion
+# Project: RCETI Endotracheal Tube Robot (Forked)
+
+This is a fork of my original team project for OSU CSE Capstone (Spring 2025).
+The `main` branch contains the preserved course submission.
+
+
+<!-- 
+The `enhanced` branch contains personal improvements made after the course:
+- Improved ROS2 launch configuration
+- Better documentation
+- Rewritten URDF & gazebo plugin cleanup
+- Added simulation video walkthrough
+- etc...
+-->
+
+Original commit history is preserved for academic integrity.
+
+
 
 ## For Setup of Ubuntu Machine (For Connection with Raspberry Pi)
 
